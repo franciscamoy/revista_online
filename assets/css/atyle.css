@@ -51,6 +51,7 @@ nav input {
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+  background-color: darkmagenta;
 }
 
 .d-none {
@@ -368,35 +369,15 @@ nav input {
   }
 }
 footer {
-  background-color: #888888;
-  text-align: center;
+  background-color: blue;
 }
 
 aside {
-  background-color: #ececec;
-}
-
-.tags button {
-  background-color: #888888;
-  border-style: none;
-  color: #ffffff;
-  border-radius: 15px;
-  padding: 10px;
-}
-.tags button:hover {
-  background-color: #333333;
+  background-color: #999999;
 }
 
 .listado-izquierdo {
-  padding: 20px;
-}
-
-.lineas_laterales {
-  border: solid 1px #888888;
-}
-
-.noticias-destacadas .item {
-  text-align: center;
+  padding: 10px;
 }
 
 main {
@@ -436,4 +417,4 @@ main {
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=atyle.css.map */

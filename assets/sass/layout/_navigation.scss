@@ -7,7 +7,8 @@ nav {
     h3 {
         font-weight: 900;
         text-transform: uppercase;
-        font-size: 1.5rem;
+        font-size: 2rem;
+        padding: 0;
     }
 
     li {
@@ -29,5 +30,13 @@ nav {
             padding-right: 0;
         }
     }
+
+    input {
+        border-radius: 10px;
+
+    }
 }
 
+.linea_separadora {
+    border: solid 1px #333333;
+}

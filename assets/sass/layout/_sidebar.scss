@@ -1,3 +1,36 @@
 aside {
-    background-color: darkblue;
+    background-color: #ececec;
+}
+
+.tags {
+
+    
+
+    button {
+        background-color: #888888;
+        border-style: none;
+        color: #ffffff;
+        border-radius: 15px;
+        padding: 10px;
+
+        &:hover {
+            background-color: #333333;;
+        }
+    }
+
+}
+
+.listado-izquierdo {
+    padding: 20px;
+}
+
+.lineas_laterales {
+    border: solid 1px #888888;
+}
+
+.noticias-destacadas {
+    .item {
+        text-align: center;
+    }
+
 }
